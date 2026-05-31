@@ -2,7 +2,7 @@
 
 A simple Python calculator.
 
-## Instalation
+## Installation
 
 No dependencies required. Just run with Python 3.
 
@@ -12,7 +12,7 @@ No dependencies required. Just run with Python 3.
 python calculator.py
 ```
 
-## Fetures
+## Features
 
 - Addition
 - Subtraction
